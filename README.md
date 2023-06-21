@@ -1,7 +1,6 @@
-# machine_learning_telecom
-# Pendahuluan <a id='Pendahuluan'></a>
+# Develop and Analyze Model Consumer Behavior
 
-Operator seluler Megaline merasa tidak puas karena banyak pelanggan mereka yang masih menggunakan paket lama. Perusahaan tersebut ingin mengembangkan sebuah model yang dapat menganalisis perilaku konsumen dan merekomendasikan salah satu dari kedua paket terbaru Megaline: Smart atau Ultra.
+Mobile operator Megaline is dissatisfied because many of their customers are still using old packages. The company wants to develop a model that can analyze consumer behavior and recommend one of the two new Megaline packages: Smart or Ultra.
 
-Anda memiliki akses terhadap data perilaku para pelanggan yang sudah beralih ke paket terbaru (dari proyek kursus Analisis Data Statistik). Dalam tugas klasifikasi ini, Anda perlu mengembangkan sebuah model yang mampu memilih paket dengan tepat. Mengingat Anda telah menyelesaikan langkah pra-pemrosesan data, Anda bisa langsung menuju ke tahap pembuatan model.
-Kembangkanlah sebuah model yang memiliki accuracy setinggi mungkin. Pada proyek ini, ambang batas untuk tingkat accuracy-nya adalah 0,75. Periksalah metrik accuracy model Anda dengan menggunakan test dataset.
+You have access to data on the behavior of customers who have switched to the latest package (from the Statistical Data Analysis course project). In this classification task, you need to develop a model that is able to select the right packets. Now that you have completed the data pre-processing steps, you can proceed directly to the modeling stage.
+Develop a model that has the highest possible accuracy. In this project, the threshold for the accuracy level is 0.75. Check your model's accuracy metrics using a test dataset.
